@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning Laravel/ Vue.js / TouchDesigner(Python) , ES6 Js
 - 💞️ I’m looking to collaborate on web and game projects
 - 📫 How to reach me ig: @nmzg.drf
+- <br>
                      email: farid.guzman91@hotmail.com
+                     <br>
+                     linkedin: https://www.linkedin.com/in/farid-guzman/
+                         
                     
 
