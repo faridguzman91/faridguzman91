@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faridguzman91
 - 👀 I’m interested in Web Development, Interaction Design
-- 🌱 I’m currently developing in React/ Vue.js / JavaScript 6/ TouchDesigner(Python) , ES6 Js
+- 🌱 I’m currently developing in / Typescript / React/ Vue.js / Python
 - 💞️ I’m looking to collaborate on web and game projects
 - 📫 How to reach me ig: @nmzg.drf
 - <br>
