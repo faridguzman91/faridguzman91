@@ -9,6 +9,9 @@
                      linkedin: https://www.linkedin.com/in/farid-guzman/
                      <br>
                      behance: https://www.behance.net/faridguzman
+<br>
+
+Might not commit so much on here, im working on GitLab more...
                          
                     
 
